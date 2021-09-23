@@ -1,0 +1,38 @@
+{
+  "name": "my-brief-info-cli",
+  "version": "1.0.0",
+  "description": "A cli created by me to display a little info about me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggaji/my-brief-info-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "biggaji",
+    "Tobi",
+    "Ajibade"
+  ],
+  "author": "Tobi Ajibade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biggaji/my-brief-info-cli/issues"
+  },
+  "homepage": "https://github.com/biggaji/my-brief-info-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0",
+    "listr": "^0.14.3"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/commander": "^2.12.2",
+    "@types/listr": "^0.14.4",
+    "@types/node": "^16.9.6",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
